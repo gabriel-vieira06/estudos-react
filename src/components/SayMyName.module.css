@@ -1,0 +1,9 @@
+.sayMyNameContainer {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.sayMyNameContent {
+    color: white;
+    background-color: rgb(64, 109, 94);
+}
